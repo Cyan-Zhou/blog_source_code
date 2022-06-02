@@ -27,37 +27,20 @@ draft: true
 
 纳米比亚位于西南非洲，以高地草原和沙漠为主。首都是深居内陆的温得和克，在1990年从南非独立，建立共和国。主要人种是班图族的一个分支——奥万博人（ovambo)，奥万博人现在主要居住在纳米比亚和安哥拉南部。奥万博人占纳米比亚人口的一半，主要居住在北方草原。
 
-{{< admonition type=info title="Intro" open=true >}}
+{{< admonition type=tip title="Geo" open=true >}}
+
+纳米比亚国境线最有趣的位于最东侧，这里几乎相当于一个四国交界点——纳米比亚、博兹瓦纳、津巴布韦和赞比亚以宽多河和尚比西河为边界交汇，不过纳米比亚和津巴布韦相距200米，隔河相望。
 
 
 {{< /admonition >}}
 
-PS，纳米比亚国境线最有趣的位于最东侧，这里几乎相当于一个四国交界点——纳米比亚、博兹瓦纳、津巴布韦和赞比亚以宽多河和尚比西河为边界交汇，不过纳米比亚和津巴布韦相距200米，隔河相望。
+
 
 {{< music server="netease" type="album" id="35600695"  list-folded="false" list-max-height="200px">}}
 
-
-
-
-
-<a data-fancybox="gallery" href="/music_nambia/cover-1.png"><img align="right" src="/music_nambia/cover-1.png" width="220px" /></a>
-
 <br>
 
-<br>
-
-<br><br><br><br><br><br>[Namibia: Songs of the Ju'hoansi Bushmen](https://music.douban.com/subject/2044128/)<br>
-<br>
-
-
-
-
-
-{{< douban src="https://music.douban.com/subject/2044128/"  >}}
-
-
-
-因为有关本专辑的资料不多，借用一下这张1997年的纳米比亚音乐采样专辑。这张专辑录制的是Ju/’hoansi ( !Kung )布须曼人（bushman）的音乐。allmusic上刊登了Thom Jurek的一段介绍。这张专辑录制于纳米比亚独立战争之后，录制的内容主要是北方Xahoba和Auru村子的Kalahari布须曼人的部落歌曲，他们音乐的特点是并非多声部组成。Thom Jurek认为这说明他们音乐的原始一面，但同时并不影响音乐本身打动人的情绪；然而，Emmanuelle Olivier 又认为他们的音乐以其多声部具有张力。或许前者专辑中的音乐更少声部。人类学家 James Suzman从1992年起就开始记录他们与现代文明的遭遇。Ju/’hoansi 人一年要迁移八到九次，但如今只有在东北部Nyae Nyae湖周围的特许区允许他们保留自己狩猎采集的活动。1959年，南非当局将布须曼人从Naye Naye欺骗到Tjum!kui镇，声称在此培训农业技艺等，然而却在事实上扣押他们20年，食用政府配给的食物。
+因为有关本专辑的资料不多，借用一下这张1997年的纳米比亚音乐采样专辑[Namibia: Songs of the Ju'hoansi Bushmen](https://music.douban.com/subject/2044128/)。这张专辑录制的是Ju/’hoansi ( !Kung )布须曼人（bushman）的音乐。allmusic上刊登了Thom Jurek的一段介绍。这张专辑录制于纳米比亚独立战争之后，录制的内容主要是北方Xahoba和Auru村子的Kalahari布须曼人的部落歌曲，他们音乐的特点是并非多声部组成。Thom Jurek认为这说明他们音乐的原始一面，但同时并不影响音乐本身打动人的情绪；然而，Emmanuelle Olivier 又认为他们的音乐以其多声部具有张力。或许前者专辑中的音乐更少声部。人类学家 James Suzman从1992年起就开始记录他们与现代文明的遭遇。Ju/’hoansi 人一年要迁移八到九次，但如今只有在东北部Nyae Nyae湖周围的特许区允许他们保留自己狩猎采集的活动。1959年，南非当局将布须曼人从Naye Naye欺骗到Tjum!kui镇，声称在此培训农业技艺等，然而却在事实上扣押他们20年，食用政府配给的食物。
 
 这张专辑的采样者是 Emmanuelle Olivier 博士，她在1993年曾在Nyae Nyae湖边区域采集Ju/'hoansi人的音乐，并将音乐存放在大英图书馆，如今由于 Unlocking Our Sound Heritage Project项目开展而重新被发现。她的研究方法沿袭法国种族音乐学（ethnomusicology）研究一派，收集各个声部的录音进行分析，获取旋律pattern。
 

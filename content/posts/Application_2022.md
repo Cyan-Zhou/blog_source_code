@@ -3,7 +3,7 @@ title: "Application Memo 2022"
 date: 2022-05-26T21:09:47+08:00
 lastmod: 2022-05-27T01:50:33+08:00
 author: "Cyan Zhou"
-description: "Collection of interesting programs"
+description: "Collection of interested programs"
 tags: ["Academic"]
 categories: ["Academic"]
 draft: false
